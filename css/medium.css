@@ -1,0 +1,55 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: rgb(255, 192, 23);
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #414141;
+}
+
+.medium-logo {
+     width: 161.483px;
+     height: 25px;
+    margin: 0;
+    padding: 0; 
+}
+
+.aside-buttons > li {
+   margin-bottom: 10px;
+}
+
+.border-top-dark {
+    border-top: 1px solid rgb(230, 230, 230);
+}
+
+.aside-links-2 {
+    text-decoration: none;
+    color: rgb(117, 117, 117);
+    font-size: 14px;
+}
+
+.aside-links-1 {
+    font-size: 13px;
+}
+
+.aside-sticky {
+    position: sticky;
+    top: 100px;
+}
+
+h1 {
+    color: black;
+    font-size: 108px;
+}
+
+.str-btn {
+    width: 213px;
+    font-size: 20px;
+    padding: 7px 20px 9px;
+    line-height: 24px;
+    border-radius: 99em;
+    background: rgb(25, 25, 25) none repeat scroll 0% 0%;
+}
